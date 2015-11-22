@@ -1,14 +1,14 @@
 # DashletRestriction
 
 ## Description
-This plugin allows to control dashlet display with restriction to :
+This plugin allows to control the display of dashlet with restriction on:
 - user(s)
 - group(s)
 - site(s)
 
-The restriction conbinaison is a logical AND. So, If you combine restrictions, for example for a site and a group, only users in the specified group and for the specific site will see the dashlet.
+The restriction combinaison is a logical AND. So, If you combine restrictions, for example for a site and a group, only users in the specified group and for the specific site will see the dashlet.
 
-The plugin includes a sample dashlet (Hello World Restriction) which illustrates how to control restriction.
+The plugin includes a sample dashlet (Hello World Restriction) which illustrates how to control the restrictions.
 
 ## Compatibility
 * Alfresco Community 4.0+
@@ -16,7 +16,7 @@ The plugin includes a sample dashlet (Hello World Restriction) which illustrates
 
 ## How to use it
 ### Configuration of the restriction
-The restriction configuration is under the **[dashletName].get.config.xml** file with the following parameters:
+The restriction configuration is under the file **[dashletName].get.config.xml** with the following parameters:
 ```
 <config>
    <restriction>
