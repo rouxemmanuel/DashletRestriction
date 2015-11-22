@@ -1,0 +1,6 @@
+<webscript>
+   <shortname>Hello World restriction</shortname>
+   <description>Dashlet which illustrates the restriction features.</description>
+   <family>dashlet</family>
+   <url>/components/dashlets/helloWorldRestriction</url>
+</webscript>
