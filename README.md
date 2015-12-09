@@ -15,6 +15,17 @@ The plugin includes a sample dashlet (Hello World Restriction) which illustrates
 * Alfresco enterprise 4.0+
 
 ## How to use it
+### Installation
+* Get source form GitHub (XXX)
+* Run "mvn package" command
+* Get the "dashletRestriction.amp" generated file
+* Deploy it on Share :
+** Stop Alfresco
+** Copy into amps_share folder
+** Execute apply_amps command
+** Start Alfresco
+
+
 ### Configuration of the restriction
 The restriction configuration is under the file **[dashletName].get.config.xml** with the following parameters:
 ```
