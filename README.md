@@ -20,10 +20,10 @@ The plugin includes a sample dashlet (Hello World Restriction) which illustrates
 * Run "mvn package" command
 * Get the "dashletRestriction.amp" generated file
 * Deploy it on Share :
-** Stop Alfresco
-** Copy into amps_share folder
-** Execute apply_amps command
-** Start Alfresco
+      * Stop Alfresco
+      * Copy into "amps_share" folder
+      * Execute "apply_amps" command
+      * Start Alfresco
 
 
 ### Configuration of the restriction
