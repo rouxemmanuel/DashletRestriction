@@ -16,7 +16,7 @@ The plugin includes a sample dashlet (Hello World Restriction) which illustrates
 
 ## How to use it
 ### Installation
-* Get source form GitHub (XXX)
+* Get source form GitHub (https://github.com/rouxemmanuel/DashletRestriction.git)
 * Run "mvn package" command
 * Get the "dashletRestriction.amp" generated file
 * Deploy it on Share :
